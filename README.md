@@ -42,4 +42,3 @@ Contributions are welcome! If you'd like to contribute to this project, feel fre
 ## Contact
 For any inquiries or support, please contact [Lucky Rathore](mailto: rlucky2000@gmail.com).
 
-
